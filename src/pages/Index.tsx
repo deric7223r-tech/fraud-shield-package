@@ -1,6 +1,7 @@
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import ScopeOfService from "@/components/ScopeOfService";
+import Methodology from "@/components/Methodology";
 import ProcessSteps from "@/components/ProcessSteps";
 import Deliverables from "@/components/Deliverables";
 import Pricing from "@/components/Pricing";
@@ -15,6 +16,9 @@ const Index = () => {
         <Hero />
         <section id="services">
           <ScopeOfService />
+        </section>
+        <section id="methodology">
+          <Methodology />
         </section>
         <section id="process">
           <ProcessSteps />
