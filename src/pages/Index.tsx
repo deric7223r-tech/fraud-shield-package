@@ -1,5 +1,6 @@
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
+import FraudWarning from "@/components/FraudWarning";
 import ScopeOfService from "@/components/ScopeOfService";
 import Methodology from "@/components/Methodology";
 import ProcessSteps from "@/components/ProcessSteps";
@@ -14,6 +15,7 @@ const Index = () => {
       <Header />
       <main>
         <Hero />
+        <FraudWarning />
         <section id="services">
           <ScopeOfService />
         </section>
