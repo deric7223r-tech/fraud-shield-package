@@ -4,7 +4,7 @@ const deliverables = [
   {
     icon: FileText,
     title: "Standardised FRA Report",
-    description: "10–12 page comprehensive assessment document"
+    description: "comprehensive assessment document"
   },
   {
     icon: AlertTriangle,

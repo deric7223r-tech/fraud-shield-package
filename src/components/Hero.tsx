@@ -31,7 +31,7 @@ const Hero = () => {
 
           {/* Subheadline */}
           <p className="text-lg md:text-xl text-cream/80 max-w-2xl mb-8 leading-relaxed animate-fade-up opacity-0 animation-delay-200">
-            A lightweight, standards-aligned FRA for charities and smaller organisations. 
+            A lightweight, standards-aligned FRA for charities and organisations. 
             Get the evidence auditors, funders and regulators require—without the 
             heavy consultancy price tag.
           </p>
