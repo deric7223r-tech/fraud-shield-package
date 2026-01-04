@@ -8,7 +8,7 @@ const pricingTiers = [
     description: "Essential fraud risk assessment for smaller organisations",
     features: [
       "Full Six-Step FRA Process",
-      "10–12 page FRA report",
+      "page FRA report",
       "Fraud Risk Register with heat map",
       "Key risks and mitigation summary",
       "Audit-ready evidence pack",
@@ -18,7 +18,7 @@ const pricingTiers = [
   },
   {
     name: "FRA + Awareness",
-    price: "£2,000 – £2,500",
+    price: "£2,750",
     description: "Complete assessment with staff training materials",
     features: [
       "Everything in Health Check",
@@ -31,7 +31,7 @@ const pricingTiers = [
   },
   {
     name: "FRA + Dashboard",
-    price: "£3,000 – £3,500",
+    price: "£3,000 – £3,570",
     description: "Full package with 12 months ongoing monitoring",
     features: [
       "Everything in FRA + Awareness",
