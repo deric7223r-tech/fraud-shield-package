@@ -4,7 +4,7 @@ import { Check, Star } from "lucide-react";
 const pricingTiers = [
   {
     name: "Health Check FRA",
-    price: "£1,200 – £1,800",
+    price: "£1,200 – £1,800 (with dashboard)",
     description: "Essential fraud risk assessment for smaller organisations",
     features: [
       "Full Six-Step FRA Process",
