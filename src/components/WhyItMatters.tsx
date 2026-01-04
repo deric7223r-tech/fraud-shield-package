@@ -82,7 +82,7 @@ const WhyItMatters = () => {
                   <span className="flex-shrink-0 w-8 h-8 rounded-full bg-secondary text-secondary-foreground flex items-center justify-center text-sm font-bold">2</span>
                   <div>
                     <p className="font-medium text-foreground">FRA Delivery</p>
-                    <p className="text-sm text-muted-foreground">Within 3–4 weeks</p>
+                    <p className="text-sm text-muted-foreground">Within 3–4 days</p>
                   </div>
                 </li>
                 <li className="flex gap-4">
@@ -97,11 +97,11 @@ const WhyItMatters = () => {
 
             <div className="flex flex-col sm:flex-row gap-4">
               <Button variant="navy" size="lg" className="flex-1">
-                Book Consultation
+                Book Consultation 
                 <ArrowRight className="w-5 h-5" />
               </Button>
               <Button variant="outline" size="lg" className="flex-1">
-                Download Brochure
+                Link for Employer
               </Button>
             </div>
           </div>

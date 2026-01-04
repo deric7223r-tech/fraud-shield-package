@@ -31,7 +31,7 @@ const pricingTiers = [
   },
   {
     name: "FRA + Dashboard",
-    price: "£3,000 – £3,570",
+    price: "£3,570",
     description: "Full package with 12 months ongoing monitoring",
     features: [
       "Everything in FRA + Awareness",
