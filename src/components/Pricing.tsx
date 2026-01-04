@@ -25,8 +25,7 @@ const pricingTiers = [
       "Awareness briefing slide deck",
       "30-minute workshop outline",
       "Tailored to trustees & leadership",
-      "Budget-holder guidance",
-      "Implementation support"
+      "Budget-holder guidance"
     ],
     highlighted: true
   },
@@ -40,7 +39,7 @@ const pricingTiers = [
       "Metrics and trend analysis",
       "12-month subscription included",
       "Annual FRA refresh reminder",
-      "Priority support access"
+      "Implementation support"
     ],
     highlighted: false
   }
