@@ -12,7 +12,7 @@ const pricingTiers = [
       "Fraud Risk Register with heat map",
       "Key risks and mitigation summary",
       "Audit-ready evidence pack",
-      "3–4 week delivery"
+      "3–4 days delivery"
     ],
     highlighted: false
   },
